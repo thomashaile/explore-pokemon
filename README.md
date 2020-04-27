@@ -1,4 +1,4 @@
-# Explore Pokemon
+# Explore Users
 
 A starter-project for pair programming.  All of the files are empty, but there are two similar projects you can study in [the Asynchronous Programming repo](https://github.com/hackyourfuturebelgium/asynchronous-programming/tree/master/integrate).  Your task is to fill in the code of this repository until your new code behaves just like [the obfuscated demo](./demo).
 
@@ -15,7 +15,8 @@ In this project you should practice the pair programming roles: [Driver and Navi
 
 ## Learning Objectives
 
-* Exploring and understanding the [PokeAPI](https://pokeapi.co/)
-* Using `import` and `export`
+* Exploring and understanding the [jsonplaceholder API](http://jsonplaceholder.typicode.com/)
+* Using `fetch` to get data from an API
+* Working with promises
 * Pair Programming
 
